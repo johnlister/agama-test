@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "test",
+        "type": "community",
+        "author": "johnlister",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/johnlister/agama-test",
+        "githubUri": "https://github.com/johnlister/agama-test",
+        "license": "apache-2.0",
+        "lastUpdated": "1721598272725",
+        "tags": [
+            "test"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
